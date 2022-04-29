@@ -8,6 +8,8 @@ This project was created to gain experience using [Three.js](https://threejs.org
 
 What you will find is a rotating model of Earth with an orbiting Moon.
 
+You can view the project at [Earth](https://rasnerk.github.io/earth/).
+
 ## How to open Earth locally
 
 ### `Fork or Clone Repository`
